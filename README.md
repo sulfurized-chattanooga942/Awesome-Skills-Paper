@@ -87,13 +87,5 @@ If you'd like to add more skill papers, benchmarks, or repositories, feel free t
 
 ---
 
-## Suggested Next Expansions
 
-If you want to grow this into a full awesome repo, the next useful additions are:
-
-1. **Code / project links** for papers with public repositories.
-2. **A timeline section** (2025 / 2026).
-3. **A taxonomy figure** showing learning, routing, benchmarking, and ecosystem papers.
-4. **A comparison table** with columns such as skill form, acquisition method, benchmark, and headline gain.
-5. **Related works** beyond your seed list (e.g., program induction, tool use, embodied skill libraries, OS/web agents).
 
